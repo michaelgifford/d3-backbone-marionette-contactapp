@@ -1,0 +1,12 @@
+body {
+  padding-top: 60px; /* 60px to make the container make room for the navigation bar */
+}
+.gender-graph-container {
+  text-align: center;
+}
+.legend {
+  font-size: 12px;
+}
+rect {
+  stroke-width: 2;
+}
